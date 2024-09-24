@@ -2,11 +2,10 @@
 
 This repo contains the instructions for the ML for Good bootcamp, for students and researchers interested in AI safety.
 
-The program is aimed at beginners in machine learning, but is quite ambitious, and we hope that even advanced students will enjoy participating in this program.
 
-## Curriculum ML4Good
+## Acknowledgements
 
-We draw inspiration from the redwood mlab, and ARENA, both of which focuses mainly on the ML engineering part.
+The curriculum draws inspiration from the redwood mlab, and ARENA, both of which focuses mainly on the ML engineering part.
 However there are a lot more workshops on strategy, goverance and conceptual AI safety during the ML4G.
 
 ### Links to google colab versions of the notebooks
